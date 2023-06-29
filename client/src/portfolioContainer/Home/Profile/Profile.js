@@ -10,12 +10,12 @@ export default function Profile() {
         <div className="profile-details">
           <div className="colz">
             <div className="colz-icon">
-              <a href="https://www.facebook.com/spuros.tzotsotzolas">
+              {/* <a href="https://www.facebook.com/spuros.tzotsotzolas">
                 <i className="fa fa-facebook-square" />
               </a>
               <a href="https://www.instagram.com/s_tzo/">
                 <i className="fa fa-instagram" />
-              </a>
+              </a> */}
               <a href="https://www.linkedin.com/in/spyros-tsotzolas-0562521b2/">
                 <i className="fa fa-linkedin" />
               </a>
