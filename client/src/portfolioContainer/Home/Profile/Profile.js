@@ -38,16 +38,12 @@ export default function Profile() {
                 <Typical
                   loop={Infinity}
                   steps={[
-                    "Enthusiastic Dev ❗",
+                    "Passionate Software Engineer❗",
                     1000,
                     "Junior Full Stack Developer 💻",
                     1000,
-                    "Junior MERN Stack Dev 😎",
+                    "Beginner of MERN Stack 😎",
                     1000,
-                    //   "Enthusiastic Dev",
-                    //   1000,
-                    //   "Enthusiastic Dev",
-                    //   1000,
                   ]}
                 />
               </h1>
